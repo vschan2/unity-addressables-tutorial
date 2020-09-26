@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 18ca8fd47438a074f9a71739d05ff475
+  m_SerializeEntries:
+  - m_GUID: a028385676ab787419042e15e01e1f48
+    m_Address: Cylinder.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    m_MainAsset: {fileID: 8638734627265994905, guid: a028385676ab787419042e15e01e1f48,
+      type: 3}
+    m_TargetAsset: {fileID: 8638734627265994905, guid: a028385676ab787419042e15e01e1f48,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ae5e846bb1bf2bf4dacb7b783aad34ec, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1941cebe58960424d9d02773a73e7261, type: 2}
+    - {fileID: 11400000, guid: 21afef3202af519458f0b555d90812c9, type: 2}
