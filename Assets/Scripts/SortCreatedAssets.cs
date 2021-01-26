@@ -4,10 +4,13 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
+using UnityEngine.ResourceManagement.ResourceLocations;
 
 public class SortCreatedAssets : MonoBehaviour
 {
     [SerializeField] private List<string> _labels = new List<string>();
+
+    public IList<IResourceLocation> AssetLocations { get; } = new List<IResourceLocation>();
 
     void Start()
     {

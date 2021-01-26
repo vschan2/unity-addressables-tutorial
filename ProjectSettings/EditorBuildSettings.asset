@@ -5,9 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/RemoteAssetsLoaderScene.unity
     guid: 24039e904b80cf54cb0a70a8e9510201
+  - enabled: 0
+    path: Assets/Scenes/AddressablesLocationLoaderScene.unity
+    guid: b15a60e0ed6ac4243a556a36bc036864
+  - enabled: 0
+    path: Assets/Scenes/MyRemoteVideoScene.unity
+    guid: cd8a4e01185584543aa882c3e47105fe
+  - enabled: 1
+    path: Assets/Scenes/MyRemoteVideoScene-2.unity
+    guid: 2f99ec5191f88d749b811f99ba8d97b1
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 388cf73d11a3917479e9c4ca59f1aeb8,
       type: 2}

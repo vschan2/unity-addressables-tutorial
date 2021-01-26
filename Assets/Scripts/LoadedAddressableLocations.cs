@@ -23,7 +23,7 @@ public class LoadedAddressableLocations : MonoBehaviour
         foreach(var location in AssetLocations)
         {
             // Asset location fully loaded.
-            Debug.Log(location.PrimaryKey);
+            Debug.Log("LoadedAddressableLocations.InitAndWaitUntilLocLoaded(): " + location.PrimaryKey);
         }
     }
 }

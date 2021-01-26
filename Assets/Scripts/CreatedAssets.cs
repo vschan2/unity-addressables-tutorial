@@ -26,7 +26,7 @@ public class CreatedAssets : MonoBehaviour
 
         await Task.Delay(TimeSpan.FromSeconds(1));
 
-        await  CreateAddressableLoader.ByLoadedAddress(_loadedLocations.AssetLocations, Assets);
+        await CreateAddressableLoader.ByLoadedAddress(_loadedLocations.AssetLocations, Assets);
 
         foreach(var asset in Assets)
         {

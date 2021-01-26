@@ -84,6 +84,7 @@ MonoBehaviour:
     - default
     - prefab
     - remote
+    - video
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 16cf8973db1dd37428ca61816ecd3137, type: 2}

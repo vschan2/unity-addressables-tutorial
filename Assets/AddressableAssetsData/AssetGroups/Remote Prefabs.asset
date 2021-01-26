@@ -17,6 +17,40 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 18ca8fd47438a074f9a71739d05ff475
   m_SerializeEntries:
+  - m_GUID: 1b6145874d126514da38361ac7535f31
+    m_Address: KPI-ExcoJohor-converted.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    - video
+    m_MainAsset: {fileID: 4780684987856666310, guid: 1b6145874d126514da38361ac7535f31,
+      type: 3}
+    m_TargetAsset: {fileID: 4780684987856666310, guid: 1b6145874d126514da38361ac7535f31,
+      type: 3}
+  - m_GUID: 2f2783d1cf8fcf74084f1a4c63c9ce60
+    m_Address: SurveyBajet2021.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    - video
+    m_MainAsset: {fileID: 265089632552232038, guid: 2f2783d1cf8fcf74084f1a4c63c9ce60,
+      type: 3}
+    m_TargetAsset: {fileID: 265089632552232038, guid: 2f2783d1cf8fcf74084f1a4c63c9ce60,
+      type: 3}
+  - m_GUID: 88f95ac840617434387ac496873530f7
+    m_Address: SurveyBajet2021.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    m_MainAsset: {fileID: 11400000, guid: 88f95ac840617434387ac496873530f7, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 88f95ac840617434387ac496873530f7, type: 2}
+  - m_GUID: 9ad8c336b6e5c814997f4f69312158c1
+    m_Address: KPI-ExcoJohor-converted.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    m_MainAsset: {fileID: 11400000, guid: 9ad8c336b6e5c814997f4f69312158c1, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 9ad8c336b6e5c814997f4f69312158c1, type: 2}
   - m_GUID: a028385676ab787419042e15e01e1f48
     m_Address: Cylinder.prefab
     m_ReadOnly: 0
@@ -26,6 +60,20 @@ MonoBehaviour:
       type: 3}
     m_TargetAsset: {fileID: 8638734627265994905, guid: a028385676ab787419042e15e01e1f48,
       type: 3}
+  - m_GUID: c88a54ed634f41043a88ac08cf9ca228
+    m_Address: SurveyBajet2021.mp4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f9564d7ffcb70144aad181966542a6df
+    m_Address: KPI-ExcoJohor-converted.mp4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: ae5e846bb1bf2bf4dacb7b783aad34ec, type: 2}
   m_SchemaSet:
